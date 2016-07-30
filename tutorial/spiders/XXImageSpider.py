@@ -13,7 +13,7 @@ import logging.config
 class XXSpider(scrapy.Spider):
     #全局设置三秒超时
     socket.setdefaulttimeout(10.0)
-    CONF_LOG = "tutorial/log/log.conf"
+    CONF_LOG = "tutorial/spiders/log/log.conf"
     logging.config.fileConfig(CONF_LOG);
     logger = logging.getLogger("xzs")
 
