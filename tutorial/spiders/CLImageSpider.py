@@ -43,7 +43,7 @@ class CLSpider(scrapy.Spider):
                 if len(row)>0:
                     self.logger.info("this site is crawed  "+link)
                     continue
-                self.scrapyUrlDao.addScrapyURL(Constant.cl_url,"1")
+                self.scrapyUrlDao.addScrapyURL(Constant.cl_url,ukey)
                 yield scrapy.Request(link, self.parse_item) #下级页面自定义爬取规则函数parse_item,配置来调用
                 '''
                 counter = counter+1

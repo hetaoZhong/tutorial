@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57167524-ebd0-428d-908a-e6c92e17e935" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/spiders/constant/Constant.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/spiders/constant/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/spiders/mysql/__init__.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/aaaa.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorial/aaaa.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tutorial/log/log.conf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/spiders/CLImageSpider.py" afterPath="$PROJECT_DIR$/tutorial/spiders/CLImageSpider.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/spiders/XXImageSpider.py" afterPath="$PROJECT_DIR$/tutorial/spiders/XXImageSpider.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial/spiders/mysql/ScrapyURLDAO.py" afterPath="$PROJECT_DIR$/tutorial/spiders/mysql/ScrapyURLDAO.py" />
     </list>
     <ignored path="tutorial.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,21 +34,26 @@
         <entry file="file://$PROJECT_DIR$/tutorial/spiders/mysql/ScrapyURLDAO.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
-                <marker date="1469885581104" expanded="true" signature="168:203" placeholder="SELECT * FRO... scrapy_url" />
-                <marker date="1469885581104" expanded="true" signature="168:220" placeholder="SELECT * FRO... scrapy_url" />
-                <marker date="1469885581104" expanded="true" signature="168:221" placeholder="SELECT * FRO... scrapy_url" />
-                <marker date="1469885581104" expanded="true" signature="168:232" placeholder="SELECT * FRO... scrapy_url" />
-                <marker date="1469885581104" expanded="true" signature="168:245" placeholder="SELECT * FRO... scrapy_url" />
-                <marker date="1469885581104" expanded="true" signature="168:254" placeholder="SELECT * FRO... scrapy_url" />
-                <marker date="1469885581104" expanded="true" signature="383:456" placeholder="insert into for_scrapy.scrapy_url... " />
-                <marker date="1469885581104" expanded="true" signature="383:465" placeholder="insert into for_scrapy.scrapy_url... " />
-                <marker date="1469885581104" expanded="true" signature="383:477" placeholder="insert into for_scrapy.scrapy_url... " />
-                <marker date="1469885581104" expanded="true" signature="383:490" placeholder="insert into for_scrapy.scrapy_url... " />
-                <marker date="1469885581104" expanded="true" signature="383:499" placeholder="insert into for_scrapy.scrapy_url... " />
-                <marker date="1469885581104" expanded="true" signature="394:456" placeholder="SELECT * FRO... scrapy_url" />
+                <marker date="1469887547528" expanded="true" signature="168:203" placeholder="SELECT * FRO... scrapy_url" />
+                <marker date="1469887547528" expanded="true" signature="168:220" placeholder="SELECT * FRO... scrapy_url" />
+                <marker date="1469887547528" expanded="true" signature="168:221" placeholder="SELECT * FRO... scrapy_url" />
+                <marker date="1469887547528" expanded="true" signature="168:232" placeholder="SELECT * FRO... scrapy_url" />
+                <marker date="1469887547528" expanded="true" signature="168:234" placeholder="SELECT * FRO... scrapy_url" />
+                <marker date="1469887547528" expanded="true" signature="168:245" placeholder="SELECT * FRO... scrapy_url" />
+                <marker date="1469887547528" expanded="true" signature="168:246" placeholder="SELECT * FRO... scrapy_url" />
+                <marker date="1469887547528" expanded="true" signature="168:253" placeholder="SELECT * FRO... scrapy_url" />
+                <marker date="1469887547528" expanded="true" signature="168:256" placeholder="SELECT * FRO... scrapy_url" />
+                <marker date="1469887547528" expanded="true" signature="168:258" placeholder="SELECT * FRO... scrapy_url" />
+                <marker date="1469887547528" expanded="true" signature="168:259" placeholder="SELECT * FRO... scrapy_url" />
+                <marker date="1469887547528" expanded="true" signature="388:461" placeholder="insert into for_scrapy.scrapy_url... " />
+                <marker date="1469887547528" expanded="true" signature="388:470" placeholder="insert into for_scrapy.scrapy_url... " />
+                <marker date="1469887547528" expanded="true" signature="388:482" placeholder="insert into for_scrapy.scrapy_url... " />
+                <marker date="1469887547528" expanded="true" signature="388:495" placeholder="insert into for_scrapy.scrapy_url... " />
+                <marker date="1469887547528" expanded="true" signature="388:506" placeholder="insert into for_scrapy.scrapy_url... " />
+                <marker date="1469887547528" expanded="true" signature="399:461" placeholder="SELECT * FRO... scrapy_url" />
               </folding>
             </state>
           </provider>
@@ -75,8 +72,8 @@
       <file leaf-file-name="CLImageSpider.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tutorial/spiders/CLImageSpider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55314535">
-              <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.39045554">
+              <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -86,7 +83,7 @@
         <entry file="file://$PROJECT_DIR$/tutorial/spiders/mysql/DBUtil.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="32" />
+              <caret line="44" column="18" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="18" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -586,7 +583,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -622,18 +619,23 @@
           <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-            <marker date="1469885581104" expanded="true" signature="168:203" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="168:220" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="168:221" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="168:232" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="168:245" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="168:254" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="383:456" placeholder="insert into for_scrapy.scrapy_url... " />
-            <marker date="1469885581104" expanded="true" signature="383:465" placeholder="insert into for_scrapy.scrapy_url... " />
-            <marker date="1469885581104" expanded="true" signature="383:477" placeholder="insert into for_scrapy.scrapy_url... " />
-            <marker date="1469885581104" expanded="true" signature="383:490" placeholder="insert into for_scrapy.scrapy_url... " />
-            <marker date="1469885581104" expanded="true" signature="383:499" placeholder="insert into for_scrapy.scrapy_url... " />
-            <marker date="1469885581104" expanded="true" signature="394:456" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:203" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:220" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:221" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:232" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:234" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:245" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:246" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:253" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:256" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:258" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:259" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="388:461" placeholder="insert into for_scrapy.scrapy_url... " />
+            <marker date="1469887547528" expanded="true" signature="388:470" placeholder="insert into for_scrapy.scrapy_url... " />
+            <marker date="1469887547528" expanded="true" signature="388:482" placeholder="insert into for_scrapy.scrapy_url... " />
+            <marker date="1469887547528" expanded="true" signature="388:495" placeholder="insert into for_scrapy.scrapy_url... " />
+            <marker date="1469887547528" expanded="true" signature="388:506" placeholder="insert into for_scrapy.scrapy_url... " />
+            <marker date="1469887547528" expanded="true" signature="399:461" placeholder="SELECT * FRO... scrapy_url" />
           </folding>
         </state>
       </provider>
@@ -724,18 +726,23 @@
           <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-            <marker date="1469885581104" expanded="true" signature="168:203" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="168:220" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="168:221" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="168:232" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="168:245" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="168:254" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="383:456" placeholder="insert into for_scrapy.scrapy_url... " />
-            <marker date="1469885581104" expanded="true" signature="383:465" placeholder="insert into for_scrapy.scrapy_url... " />
-            <marker date="1469885581104" expanded="true" signature="383:477" placeholder="insert into for_scrapy.scrapy_url... " />
-            <marker date="1469885581104" expanded="true" signature="383:490" placeholder="insert into for_scrapy.scrapy_url... " />
-            <marker date="1469885581104" expanded="true" signature="383:499" placeholder="insert into for_scrapy.scrapy_url... " />
-            <marker date="1469885581104" expanded="true" signature="394:456" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:203" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:220" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:221" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:232" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:234" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:245" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:246" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:253" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:256" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:258" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:259" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="388:461" placeholder="insert into for_scrapy.scrapy_url... " />
+            <marker date="1469887547528" expanded="true" signature="388:470" placeholder="insert into for_scrapy.scrapy_url... " />
+            <marker date="1469887547528" expanded="true" signature="388:482" placeholder="insert into for_scrapy.scrapy_url... " />
+            <marker date="1469887547528" expanded="true" signature="388:495" placeholder="insert into for_scrapy.scrapy_url... " />
+            <marker date="1469887547528" expanded="true" signature="388:506" placeholder="insert into for_scrapy.scrapy_url... " />
+            <marker date="1469887547528" expanded="true" signature="399:461" placeholder="SELECT * FRO... scrapy_url" />
           </folding>
         </state>
       </provider>
@@ -899,16 +906,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/spiders/mysql/DBUtil.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/spiders/constant/Constant.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -917,32 +914,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/spiders/mysql/DBUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/spiders/mysql/ScrapyURLDAO.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-            <marker date="1469885581104" expanded="true" signature="168:203" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="168:220" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="168:221" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="168:232" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="168:245" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="168:254" placeholder="SELECT * FRO... scrapy_url" />
-            <marker date="1469885581104" expanded="true" signature="383:456" placeholder="insert into for_scrapy.scrapy_url... " />
-            <marker date="1469885581104" expanded="true" signature="383:465" placeholder="insert into for_scrapy.scrapy_url... " />
-            <marker date="1469885581104" expanded="true" signature="383:477" placeholder="insert into for_scrapy.scrapy_url... " />
-            <marker date="1469885581104" expanded="true" signature="383:490" placeholder="insert into for_scrapy.scrapy_url... " />
-            <marker date="1469885581104" expanded="true" signature="383:499" placeholder="insert into for_scrapy.scrapy_url... " />
-            <marker date="1469885581104" expanded="true" signature="394:456" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:203" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:220" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:221" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:232" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:234" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:245" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:246" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:253" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:256" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:258" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="168:259" placeholder="SELECT * FRO... scrapy_url" />
+            <marker date="1469887547528" expanded="true" signature="388:461" placeholder="insert into for_scrapy.scrapy_url... " />
+            <marker date="1469887547528" expanded="true" signature="388:470" placeholder="insert into for_scrapy.scrapy_url... " />
+            <marker date="1469887547528" expanded="true" signature="388:482" placeholder="insert into for_scrapy.scrapy_url... " />
+            <marker date="1469887547528" expanded="true" signature="388:495" placeholder="insert into for_scrapy.scrapy_url... " />
+            <marker date="1469887547528" expanded="true" signature="388:506" placeholder="insert into for_scrapy.scrapy_url... " />
+            <marker date="1469887547528" expanded="true" signature="399:461" placeholder="SELECT * FRO... scrapy_url" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/spiders/CLImageSpider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55314535">
-          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.39045554">
+          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
           <folding />
         </state>
       </provider>
